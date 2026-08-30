@@ -2,6 +2,8 @@
 
 Web app single-user untuk mencatat & memantau performa finansial akun-akun prop firm (Apex, Topstep, dll.) — tahu persis berapa modal keluar, berapa payout masuk, dan ROI aktual. Bukan cuma di kepala atau spreadsheet manual.
 
+Akses gratis disini https://raditya-id.github.io/propfirm-roi-track/
+
 ## ✨ Fitur
 
 - **Tambah Akun** — catat prop firm, ukuran, tanggal beli, harga eval, status, biaya aktivasi, ID akun custom, catatan strategi, batch add
